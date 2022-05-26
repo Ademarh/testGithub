@@ -3,5 +3,5 @@ line 2 Ana Mauricio Gutierrez
 line 3 Mayra Quispe Salgado
 line 4 Wendy Chuquimia
 line 5
-line 6 Ricardo Viscarra
+line 6 Ricardo Viscarra2
 line 7 Pablo Barroso
